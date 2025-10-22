@@ -1,19 +1,7 @@
-# Student-Board-Pro (Upgraded)
+حلقتي — Halaqti landing
 
-Features added in this upgraded release:
-- Google Sign-In (Firebase)
-- Admin panel (create/edit/delete sessions)
-- Dark mode (default)
-- Framer Motion animations
-- FullCalendar for rich calendar UI
+How to run:
+1. npm install
+2. npm run dev
 
-## Quick start
-1. Rename `.env.example` to `.env` and fill Firebase credentials + `VITE_ADMIN_EMAIL`.
-2. `npm install`
-3. `npm run dev`
-
-## Admin access
-Set `VITE_ADMIN_EMAIL` to the Google email that should have admin access.
-
-## Deploy to Vercel
-Follow earlier steps, and add env vars in Vercel project settings.
+Deploy: Upload to Vercel (connect GitHub or use direct upload).
